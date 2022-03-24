@@ -1,0 +1,68 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 24 Mar 2022 13:22:58 at https://bison.studio +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bison.studio -O1 "C:\My Web Sites\templates\IEEE_Project" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:22:58	Warning: 	Cache: damaged cache, trying to repair
+13:22:58	Warning: 	Cache: 0 bytes successfully recovered in 0 entries
+13:22:58	Warning: 	Cache: error trying to open the cache
+13:23:35	Error: 	"Method Not Allowed" (405) at link https://bison.studio/xmlrpc.php (from https://bison.studio/)
+13:25:14	Warning: 	Link https://bison.studio/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+13:25:14	Warning: 	Moved Permanently for https://bison.studio/?p=8
+13:25:14	Warning: 	File has moved from https://bison.studio/?p=8 to https://bison.studio/about/
+13:25:24	Warning: 	Moved Permanently for https://bison.studio/?p=6
+13:25:24	Warning: 	File has moved from https://bison.studio/?p=6 to https://bison.studio/services/
+13:25:43	Warning: 	Moved Permanently for https://bison.studio/?p=10
+13:25:43	Warning: 	File has moved from https://bison.studio/?p=10 to https://bison.studio/contact/
+13:25:43	Warning: 	Moved Permanently for https://bison.studio/?p=459
+13:25:43	Warning: 	File has moved from https://bison.studio/?p=459 to https://bison.studio/work/mercury-towers-sales-website/
+13:25:43	Warning: 	Moved Permanently for https://bison.studio/?p=481
+13:25:43	Warning: 	File has moved from https://bison.studio/?p=481 to https://bison.studio/work/floreal-ecommerce/
+13:25:43	Warning: 	Moved Permanently for https://bison.studio/?p=476
+13:25:43	Warning: 	File has moved from https://bison.studio/?p=476 to https://bison.studio/work/boost/
+13:25:43	Warning: 	Moved Permanently for https://bison.studio/?p=468
+13:25:43	Warning: 	File has moved from https://bison.studio/?p=468 to https://bison.studio/work/prosper-africa/
+13:25:45	Warning: 	Moved Permanently for https://bison.studio/?p=66
+13:25:45	Warning: 	File has moved from https://bison.studio/?p=66 to https://bison.studio/blogs/introducing-the-new-bison-studio-website/
+13:25:45	Warning: 	Moved Permanently for https://bison.studio/?p=64
+13:25:45	Warning: 	File has moved from https://bison.studio/?p=64 to https://bison.studio/blogs/expanding-our-services-digital-marketing/
+13:26:01	Warning: 	Moved Permanently for https://bison.studio/?p=62
+13:26:01	Warning: 	File has moved from https://bison.studio/?p=62 to https://bison.studio/blogs/mercury-towers-by-zaha-hadid-wins-international-awards/
+13:26:01	Warning: 	Moved Permanently for https://bison.studio/?p=178
+13:26:01	Warning: 	File has moved from https://bison.studio/?p=178 to https://bison.studio/services/ecommerce/
+13:26:01	Warning: 	Moved Permanently for https://bison.studio/?p=307
+13:26:01	Warning: 	File has moved from https://bison.studio/?p=307 to https://bison.studio/services/websites/
+13:26:24	Warning: 	Moved Permanently for https://bison.studio/?p=305
+13:26:24	Warning: 	File has moved from https://bison.studio/?p=305 to https://bison.studio/services/digital-products/
+13:26:24	Warning: 	Moved Permanently for https://bison.studio/?p=180
+13:26:24	Warning: 	File has moved from https://bison.studio/?p=180 to https://bison.studio/services/digital-marketing/
+13:26:24	Warning: 	Moved Permanently for https://bison.studio/?p=532
+13:26:24	Warning: 	File has moved from https://bison.studio/?p=532 to https://bison.studio/work/mercury-towers-interactive-sales-room/
+13:26:24	Warning: 	Moved Permanently for https://bison.studio/?p=528
+13:26:24	Warning: 	File has moved from https://bison.studio/?p=528 to https://bison.studio/work/bukkun/
+13:26:24	Warning: 	Moved Permanently for https://bison.studio/?p=846
+13:26:24	Warning: 	File has moved from https://bison.studio/?p=846 to https://bison.studio/work/vivi/
+13:26:24	Warning: 	Moved Permanently for https://bison.studio/?p=410
+13:26:24	Warning: 	File has moved from https://bison.studio/?p=410 to https://bison.studio/work/ion-the-harbour/
+13:26:24	Warning: 	Moved Permanently for https://bison.studio/?p=621
+13:26:24	Warning: 	File has moved from https://bison.studio/?p=621 to https://bison.studio/work/marina-di-valletta-2/
+13:26:24	Warning: 	Moved Permanently for https://bison.studio/?p=380
+13:26:24	Warning: 	File has moved from https://bison.studio/?p=380 to https://bison.studio/work/gaba-digital-marketing/
+13:26:24	Warning: 	Moved Permanently for https://bison.studio/?p=365
+13:26:24	Warning: 	File has moved from https://bison.studio/?p=365 to https://bison.studio/work/mercury-towers-sales-campaign/
+13:26:24	Warning: 	Moved Permanently for https://bison.studio/?p=347
+13:26:24	Warning: 	File has moved from https://bison.studio/?p=347 to https://bison.studio/work/floreal-launch-campaign/
+13:26:24	Warning: 	Moved Permanently for https://bison.studio/?p=607
+13:26:24	Warning: 	File has moved from https://bison.studio/?p=607 to https://bison.studio/work/streamamg/
+13:26:24	Warning: 	Moved Permanently for https://bison.studio/?p=598
+13:26:24	Warning: 	File has moved from https://bison.studio/?p=598 to https://bison.studio/work/studioseven/
+13:26:24	Warning: 	Moved Permanently for https://bison.studio/?p=594
+13:26:24	Warning: 	File has moved from https://bison.studio/?p=594 to https://bison.studio/work/ab-finance/
+13:26:24	Warning: 	Moved Permanently for https://bison.studio/?p=139
+13:26:24	Warning: 	File has moved from https://bison.studio/?p=139 to https://bison.studio/work/district/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 26 seconds : 398 links scanned, 370 files written (26986988 bytes overall) [23954421 bytes received at 116283 bytes/sec], 5105007 bytes transferred using HTTP compression in 140 files, ratio 32%, 56.8 requests per connection
+(1 errors, 56 warnings, 0 messages)
