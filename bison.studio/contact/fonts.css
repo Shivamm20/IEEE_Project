@@ -1,0 +1,115 @@
+@font-face {
+    font-family:Abaddon;
+    src: url(../contact/fonts/Abaddon.ttf);
+  }
+  @font-face {
+    font-family:CELTG;
+    src: url(../contact/fonts/CELTG.TTF);
+  }
+  @font-face {
+    font-family:Aunchanted Bold Regular;
+    src: url(../contact/fonts/Aunchanted\ Bold\ Regular.ttf);
+  }
+  @font-face {
+    font-family:HelveticaNowDisplay;
+    src: url(../contact/fonts/HelveticaNowDisplay-Medium.woff);
+  }
+
+  .textwidget{
+    margin-top: 30px;
+  }
+
+  .head_contact{
+    text-transform: uppercase;
+    font-size: 19px;
+    font-weight: 700;
+    letter-spacing: 0.064em;
+    font-style: normal;
+    color: #ba3737;
+    font-family:HelveticaNowDisplay;
+  }
+  /* .main_contacts{
+    position: relative;
+    right: 3rem;
+  } */
+.name{
+  color: #ba3737;
+  border-bottom: 1px solid #fff;
+   padding-bottom: 3px;
+   font-family:HelveticaNowDisplay;
+   
+}
+.connect_main p{
+margin-top: 3.5rem;
+text-transform: uppercase;
+font-size: 19px;
+font-weight: 700;
+}
+.head_touch{
+ 
+  font-style: normal;
+  color: #ba3737;
+  font-family:HelveticaNowDisplay;
+}
+.connect_social{
+  margin-top: 3rem;
+}
+.tech_main{
+  letter-spacing: 0.25rem;
+position: relative;
+right: 14px;
+}
+.map_iframe{
+/* width: 43vw; */
+/* height: 32vh; */
+/* margin-left: 1rem; */
+/* margin-top: 2.5rem; */
+  height: 50vh!important;
+  width:100%;
+}
+
+.info_page{
+  margin-left: 1rem;
+}
+.get_heading{
+  text-transform: uppercase;
+  font-family:HelveticaNowDisplay;
+  font-weight: 900;
+}
+
+.img1{
+width: 150px!important;
+height: 150px!important;
+border-radius: 50%!important;
+}
+.devs_container{
+  margin-left: 0rem !important;
+}
+.playlist-area{
+  margin-left: -9rem!important;
+  margin-top: 6rem!important;
+}
+.playlist-item{
+  text-align: center;
+}
+.playlist-item h5{
+  margin-top: 2rem;
+  font-size: 21px;
+}
+@media screen and (min-width: 767.98px) {
+  .main_contact{
+  position: relative !important;
+right: 3rem !important;
+font-size: 24px !important;
+  }
+  
+}
+
+@media screen and (max-width:768px){
+  .map_iframe{
+    height: 25vh!important;
+    }
+    .devs_container{   
+        margin-left: 0.5rem !important;
+    }
+}
